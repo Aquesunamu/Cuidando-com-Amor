@@ -1,4 +1,4 @@
-# ONG Cuidar Bem
+# ONG Cuidando com Amor
 
 Este é o repositório do site da ONG Cuidar Bem.
 
