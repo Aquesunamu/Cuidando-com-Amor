@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Doação de Vestimentas - Cuidar Bem</title>
+    <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+
+<header>
+    <h1>Doação de Vestimentas</h1>
+</header>
+
+<section>
+    <p>A ONG aceita roupas para idosos de ambos os sexos. Preferimos roupas de frio, camisas, calças e chinelos.</p>
+</section>
+
+<footer>
+    <a href="../index.html">Voltar ao início</a>
+</footer>
+
+</body>
+</html>
