@@ -2,4 +2,4 @@
 
 Este é o repositório do site da ONG Cuidar Bem.
 
-🌐 Site online: [Clique aqui para visitar](https://cuidandocomamor.vercel.app/)
+🌐 Site online: [https://cuidandocomamor.vercel.app/](https://cuidandocomamor.vercel.app/)
