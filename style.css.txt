@@ -24,13 +24,16 @@ nav a {
     font-weight: bold;
 }
 
-section {
+section section {
     padding: 30px;
-    background: white;
+    background: url('/imagens/idosos.jpg') no-repeat center center;
+    background-size: cover;
     margin: 20px auto;
     width: 80%;
     border-radius: 8px;
+    color: white; /* deixa o texto branco para aparecer melhor */
 }
+
 
 form input, form textarea {
     width: 100%;
